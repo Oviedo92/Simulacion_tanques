@@ -2,7 +2,7 @@
 
 Leer 
 
-# Simulacionb de Llenado de Tanques de Agua
+# Simulacion Tanques de Agua
 
 Proyecto desarrollado para el **Parcial 3 de Modelos y Simulacion** – Universidad Popular del Cesar.
 Estudiante : **Oviedo Emmanuel Leonardo Vanegas**
@@ -20,10 +20,15 @@ Este proyecto simula el llenado de tanques para analizar tiempos, volumenes, y c
 ##  Detalles 
 
 **Interfaaz web con Streamlit**
-***Ingreso de variables: radio, altura, caudal**
+
+**Ingreso de variables: radio, altura, caudal**
+
 **Caalculo de volumen y tiempo de llenado** 
+
 **Graficas dinámicas de llenado del tanque**
+
 **Gráficas de dispersión y regresioon**
+
 **Optimizacioon del sistema mediante calculo simbolico**
 
 --------------------------------------------------------------
@@ -33,6 +38,7 @@ Este proyecto simula el llenado de tanques para analizar tiempos, volumenes, y c
 ### Requisitos
 
 - Python 3.x instalado
+  
 **- pip actualizado**
 
 
@@ -41,6 +47,7 @@ Este proyecto simula el llenado de tanques para analizar tiempos, volumenes, y c
 Instalar las dependencias:
 
 **pip install -r requerimientos.txt**
+
 -------------------------------------------
 
 (Opcional) Si falla el paso anterior, instalar manualmente:
@@ -49,4 +56,4 @@ Instalar las dependencias:
 ---------------------------------------------------------------------------------------
 
 **Ejecutar la app**
-***python -m streamlit run app.py**
+**python -m streamlit run app.py**
